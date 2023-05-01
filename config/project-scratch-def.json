@@ -1,0 +1,13 @@
+{
+  "orgName": "soomjeet.sahoo company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi","Entitlements","API","ServiceCloud","LightningServiceConsole","SocialCustomerService"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
